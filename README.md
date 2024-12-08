@@ -1,7 +1,3 @@
-# Individual_Project_Report
-
-# Individual Project Report
-
 ## Overview
 This project is focused on analyzing consumer behavior using a dataset of purchases. The analysis includes data preprocessing, exploratory data analysis (EDA), visualizations, and building a simple predictive model. The goal is to derive insights into purchasing patterns and measure customer loyalty across different demographics.
 
